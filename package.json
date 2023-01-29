@@ -1,7 +1,7 @@
 {
   "name": "weather-web-backend",
   "version": "1.0.0",
-  "description": "Weather Web Project Backend in Express",
+  "description": "Weather Web Project Backend made in Express",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
